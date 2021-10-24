@@ -122,12 +122,20 @@ public class SharingUtils
     Intent intent = new Intent(Intent.ACTION_SEND);
     intent.setType(TEXT_MIME_TYPE);
 
-    final String subject = context.getString(R.string.tell_friends);
+    final String subject = context.getString(R.string.app_name);
     intent.putExtra(Intent.EXTRA_SUBJECT, subject);
 
-    final String text = context.getString(R.string.tell_friends_text);
-    intent.putExtra(Intent.EXTRA_TEXT, text);
+    final StringBuilder text = new StringBuilder();
+    text.append(context.getString(R.string.tell_friends_text));
+    text.append('\n');
+    text.append('\n');
+    text.append(Constants.Url.INSTALL_LINK);
+    text.append('\n');
+    text.append('\n');
+    text.append(context.getString(R.string.about_description));
+    text.append('\n');
+    intent.putExtra(Intent.EXTRA_TEXT, text.toString());
 
-    context.startActivity(Intent.createChooser(intent, context.getString(R.string.share)));
+    context.startActivity(Intent.createChooser(intent, context.getString(R.string.tell_friends)));
   }
 }
