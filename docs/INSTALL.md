@@ -198,9 +198,9 @@ Install [Android SDK](https://developer.android.com/sdk/index.html) and
 [NDK](https://developer.android.com/tools/sdk/ndk/index.html):
 
 - Run the Android Studio.
-- Open "SDK Manager" ("Tools" → "SDK Manager").
+- Open "SDK Manager" (under "more actions" in the welcome screen or triple dot menu in the list of projects or under "Tools" menu item in the open project).
 - Choose "Android 11 (R) API Level 30" SDK.
-- Choose "version "30" and click "OK".
+- Switch to "SDK Tools" tab
 - Check "Show Package Details" checkbox.
 - Choose "NDK (side by side)" version **21.X.Y**.
 - Choose "CMake" version **3.18.1**.
