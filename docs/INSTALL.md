@@ -198,13 +198,13 @@ Install [Android SDK](https://developer.android.com/sdk/index.html) and
 [NDK](https://developer.android.com/tools/sdk/ndk/index.html):
 
 - Run the Android Studio.
-- Open "SDK Manager" (under "more actions" in the welcome screen or triple dot menu in the list of projects or under "Tools" menu item in the open project).
-- Choose "Android 11 (R) API Level 30" SDK.
+- Open "SDK Manager" (under "More Actions" in a welcome screen or three-dot menu in a list of recent projects screen or "Tools" top menu item in an open project).
+- Select "Android 11.0 (R) / API Level 30" SDK.
 - Switch to "SDK Tools" tab
 - Check "Show Package Details" checkbox.
-- Choose "NDK (side by side)" version **21.X.Y**.
-- Choose "CMake" version **3.18.1**.
-- Click "OK".
+- Select "NDK (Side by side)" version **21.X.Y**.
+- Select "CMake" version **3.18.1**.
+- Click "OK" and wait for downloads and installation to finish.
 
 Alternatively, you can install only
 [Android SDK](https://developer.android.com/sdk/index.html) and
@@ -225,6 +225,14 @@ export PATH=$HOME/Android/sdk/cmake/3.18.1/bin:$PATH
 
 ```bash
 export PATH=$HOME/Library/Android/sdk/cmake/3.18.1/bin:$PATH
+```
+
+If your system doesn't have a JRE installed or you want command line builds to use a JRE version bundled with the Studio then set `JAVA_HOME` environment variable:
+
+**Linux**:
+
+```bash
+export JAVA_HOME=*A-PATH-TO-YOUR-ANDROID-STUDIO-INSTALLATION*/android-studio/jre
 ```
 
 ### Getting sources
