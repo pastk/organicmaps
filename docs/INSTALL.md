@@ -218,13 +218,13 @@ installed in the system:
 **Linux**:
 
 ```bash
-export PATH=$HOME/Android/sdk/cmake/3.18.1/bin:$PATH
+export PATH=$HOME/Android/Sdk/cmake/3.18.1/bin:$PATH
 ```
 
 **macOS**:
 
 ```bash
-export PATH=$HOME/Library/Android/sdk/cmake/3.18.1/bin:$PATH
+export PATH=$HOME/Library/Android/Sdk/cmake/3.18.1/bin:$PATH
 ```
 
 If your system doesn't have a JRE installed or you want command line builds to use a JRE version bundled with the Studio then set `JAVA_HOME` environment variable:
