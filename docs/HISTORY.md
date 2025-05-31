@@ -204,11 +204,11 @@ Effectively, the removal of trackers was mostly completed in *March 6-7, 2021*.
 
 Alexander Borsuk (a.k.a. [deathbaba][deathbaba]), co-founder of MAPS.ME, edited the [Wikipedia article][alternative_history_wikipedia] to state that Organic Maps started on *December 21, 2020* by Viktor Govako and Alexander Borsuk, while Roman Tsisyk joining Viktor and Alexander later on *January 7, 2021*. This version of events contradicts the factually documented sequence of events outlined in this document.
 
-[![Alexander Borsuk adds alternative history of Organic Maps (OMaps) to Wikipedia article](artifacts/2025-04-20-alexander-borsuk-adds-alternative-history-of-organic-maps-to-wikipedia.png "Alexander Borsuk adds alternative history of Organic Maps (OMaps) to Wikipedia article")][alternative_history_wikipedia]
+[![Alexander Borsuk adds alternative history of Organic Maps (OMaps) to Wikipedia article](artifacts/2025-04-20-alexander-borsuk-alternative-history-of-organic-maps-to-wikipedia.png "Alexander Borsuk adds alternative history of Organic Maps (OMaps) to Wikipedia article")][alternative_history_wikipedia]
 
 Alexander Borsuk, co-founder of MAPS.ME (MapsWithMe), has [promoted][alternative_history_hackernews] a narrative stating "We created maps.me, open-sourced it, and then forked it to create Organic Maps". This statement does not align with the factual timeline and evidence provided in the document.
 
-[![Alexander Borsuk shared a version of the Organic Maps origin story on HackerNews that differs from the documented project timeline and publicly verifiable records](artifacts/2023-09-01-alexander-borsuk-history-of-events-of-organicmaps.png "Alexander Borsuk shared a version of the Organic Maps origin story on HackerNews that differs from the documented project timeline and publicly verifiable records")][alternative_history_hackernews]
+[![Alexander Borsuk shared a version of the Organic Maps origin story on HackerNews that differs from the documented project timeline and publicly verifiable records](artifacts/2023-09-01-alexander-borsuk-history-of-events-of-organic-maps.png "Alexander Borsuk shared a version of the Organic Maps origin story on HackerNews that differs from the documented project timeline and publicly verifiable records")][alternative_history_hackernews]
 
 Alexander Borsuk, co-founder of MAPS.ME (MapsWithMe), [lists][alternative_history_alexbio] himself as a co-founder of Organic Maps on his personal CV website. The documented project timeline and publicly accessible records suggest that this claim does not accurately represent Alexander’s level of involvement into the
 
